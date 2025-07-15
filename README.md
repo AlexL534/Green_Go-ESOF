@@ -1,5 +1,7 @@
 # _GreenGo_ Development Report
 
+**Final Grade:** 18.3/20
+
 Welcome to the documentation pages of _GreenGo_!
 
 You can find here details about _GreenGo_, from a high-level vision to low-level implementation decisions, a kind of Software Development Report, organized by type of activities:
